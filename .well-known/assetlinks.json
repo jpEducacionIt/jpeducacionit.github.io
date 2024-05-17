@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "uninitialized.application.id",
+    "package_name": "com.pampa.uat",
     "sha256_cert_fingerprints":
-    ["46:03:68:6A:D3:1A:BB:36:3F:D4:A0:CB:57:BB:43:2F:61:43:F9:68:95:99:8D:A8:1F:32:47:47:C6:D9:69:07"]
+    ["5B:41:32:B3:45:4D:2B:CF:EC:2F:57:B4:87:51:B7:73:18:16:2A:94:49:6C:0B:72:01:FA:37:11:4C:E3:BF:56"]
   }
 }]
